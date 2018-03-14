@@ -10,4 +10,4 @@ var programmer = {
 var programmerName = programmer.name;
 var programmerSurname = programmer.surname;
 
-var {programmerName, programmerSurname} = programmer;
+var {name, surname} = programmer;

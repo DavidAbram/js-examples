@@ -18,7 +18,7 @@ worfsTotal;
 
 
 
-/*worfsMoney.toFixed(2) >= worfsTotal.toFixed(2);
+worfsMoney.toFixed(2) >= worfsTotal.toFixed(2);
 
 
 var worfsMoney = 60090;
@@ -27,4 +27,4 @@ var worfsTotal = bloodWinePrice * 3;
 
 worfsMoney >= worfsTotal;
 
-worfsTotal;*/
+worfsTotal;

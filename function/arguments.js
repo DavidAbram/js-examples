@@ -9,11 +9,7 @@ function sumAll() {
     var result = 0;
     for (var i = 0; i < arguments.length; i++) {
       result = result + arguments[i];
-      // result += arguments[i];
-      // result = sum(result, arguments[i]);
     }
     return result;
 }
-
-
 sumAll(1, 2, 3, 4, 25);

@@ -1,11 +1,8 @@
 class Rectangle {
+
   constructor(height, width) {
     this.height = height;
     this.width = width;
-  }
-
-  function calculateArea() {
-    return this.height * this.width;
   }
 
   get area() {
